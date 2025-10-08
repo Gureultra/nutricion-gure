@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-dotenv
+requests # Para llamar a la API de Gemini
+sendgrid # O la librería de email que elijas
+weasyprint # Para generar PDFs desde HTML/CSS
